@@ -1,0 +1,41 @@
+.titulo{
+    padding-left: 750px; padding-top: 50px;
+    background-image: url(../img/fondo\ de\ logo.JPG); height:200px;
+    background-repeat: no-repeat;
+    background-position-x:center ;
+    font-size: 40px;
+    color: black;
+}
+.subtitulo{
+    padding-left:750px;
+    padding-top:20px;
+}
+
+body{background-color: beige;}
+.parrafo{
+    padding-left: 75px;
+}
+.Sofa{
+    margin-left:500px;
+    margin-block-start:-300px;
+    padding-bottom:200px;
+    font-size: 25px;
+    
+}
+.rack{
+    margin-left:500px;
+    margin-block-start:-250px;
+    padding-bottom:200px;
+    font-size: 25px;
+}
+.mesa{
+    margin-left:300px;
+    margin-block-start:-400px;
+    padding:200px;
+    font-size: 25px;
+}
+footer{
+    padding-left: 850px;
+    background-color: brown;
+    font-size: medium;
+}
